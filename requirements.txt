@@ -1,0 +1,15 @@
+# This project is built using the Arduino IDE.
+# No Python-specific libraries are required.
+
+# Hardware Requirements:
+# - Arduino board (e.g., Arduino Uno)
+# - L298N Motor Driver
+# - 3 Infrared (IR) flame sensors
+# - 2 DC Motors
+# - 1 Servo Motor (e.g., SG90)
+# - 1 Water Pump
+# - Push buttons for manual control (optional)
+# - Power supply (e.g., battery pack)
+
+# Software Requirements:
+# - Arduino IDE
