@@ -6,7 +6,7 @@
 
 | Top View                                | Left View                      |    Bottom View                                  |
 | --------------------------------------- | ------------------------------------------- | ------------------------------------------- |
-| ![Top View](https://github.com/rezaxr14/Autonomous-Firefighting-Robot/blob/main/robot_overhead.jpg) | ![Left View](https://github.com/rezaxr14/Autonomous-Firefighting-Robot/blob/main/robot_leftside.jpg)| ![Bottom View](https://github.com/rezaxr14/Autonomous-Firefighting-Robot/blob/main/robot_bottom.jpg)   |
+| ![Top View](img/Studio%20Robotics%20Car%20Prototype.png) | ![Left View](img/DIY%20Cleaning%20Robot%20Studio%20Showcase.png)| ![Bottom View](img/Underside%20View%20of%20a%204WD%20Robot%20Chassis.png)   |
 
 This project is an Arduino-based autonomous robot designed to detect and extinguish small fires.It uses three infrared (IR) sensors to locate flames and a water pump to put them out, making it a great project for learning about robotics and sensor integration.The robot operates autonomously but also includes optional push buttons for manual control. 
 
